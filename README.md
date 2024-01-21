@@ -1,4 +1,4 @@
-# Terraform Netbox Auth
+# Terraform Netbox Extras
 
 This is a Terraform module for managing extra configuration at Netbox. You can use this module both for commercial or non-commercial purposes.
 
